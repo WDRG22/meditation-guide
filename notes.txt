@@ -1,0 +1,1 @@
+- run front and backend concurrently w/ npm run proxy and npm run start
